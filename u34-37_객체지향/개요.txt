@@ -6,3 +6,8 @@
 
 1. 캡슐화(encapsulation)
 
+2. 상속(Inheritance)
+
+3. 다형성(Polymorphism)
+    - Overrriding
+    - Overloading
